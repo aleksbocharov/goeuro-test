@@ -1,0 +1,6 @@
+
+.gradle/
+.idea/workspace.xml
+build/
+src/main/resources/
+src/test/
